@@ -7,7 +7,7 @@ export const baseUrl = 'https://api.whvx.net';
 
 export const headers = {
   Origin: 'https://reelo.to',
-  Referer: 'https://www.vidbinge.com',
+  Referer: 'https:/reelo.to',
 };
 
 async function comboScraper(ctx: ShowScrapeContext | MovieScrapeContext): Promise<SourcererOutput> {
