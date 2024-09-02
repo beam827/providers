@@ -6,7 +6,7 @@ import { NotFoundError } from '@/utils/errors';
 export const baseUrl = 'https://api.whvx.net';
 
 export const headers = {
-  Origin: 'https://www.reelo.to',
+  Origin: 'https://reelo.to',
   Referer: 'https://www.vidbinge.com',
 };
 

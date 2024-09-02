@@ -18,7 +18,7 @@ const providers = [
 ];
 
 export const headers = {
-  Origin: 'https:/www.reelo.to',
+  Origin: 'https:/reelo.to',
   Referer: 'https://www.vidbinge.com',
 };
 
