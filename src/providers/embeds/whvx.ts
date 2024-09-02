@@ -19,7 +19,7 @@ const providers = [
 
 export const headers = {
   Origin: 'https:/www.reelo.to',
-  Referer: 'https://www.reelo.to',
+  Referer: 'https://www.vidbinge.com',
 };
 
 function embed(provider: { id: string; rank: number }) {
