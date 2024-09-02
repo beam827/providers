@@ -6,8 +6,8 @@ import { NotFoundError } from '@/utils/errors';
 export const baseUrl = 'https://api.whvx.net';
 
 export const headers = {
-  Origin: 'https://www.vidbinge.com',
-  Referer: 'https://www.vidbinge.com',
+  Origin: 'https://www.reelo.to',
+  Referer: 'https://www.reelo.to',
 };
 
 async function comboScraper(ctx: ShowScrapeContext | MovieScrapeContext): Promise<SourcererOutput> {

@@ -18,8 +18,8 @@ const providers = [
 ];
 
 export const headers = {
-  Origin: 'https://www.vidbinge.com',
-  Referer: 'https://www.vidbinge.com',
+  Origin: 'https:/www.reelo.to',
+  Referer: 'https://www.reelo.to',
 };
 
 function embed(provider: { id: string; rank: number }) {
